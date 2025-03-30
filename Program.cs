@@ -10,7 +10,8 @@ namespace PracticalProject
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Введите первое число");
+            int a = Convert.ToInt32(Console.ReadLine());
         }
         static int Sum(int a, int b)
         {
