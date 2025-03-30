@@ -10,6 +10,12 @@ namespace PracticalProject
     {
         static void Main(string[] args)
         {
+
+        }
+        static int Sum(int a, int b)
+        {
+            int result = 0;
+            return result;
         }
     }
 }
