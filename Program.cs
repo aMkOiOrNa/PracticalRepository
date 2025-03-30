@@ -15,6 +15,7 @@ namespace PracticalProject
         static int Sum(int a, int b)
         {
             int result = 0;
+            result = a + b;
             return result;
         }
     }
